@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7DAF535B-907F-4639-A2D8-15C5584C0706</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AnimatedPath</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5D5134CD-2282-4DE9-986D-547927799EB7</key>
+		<string>https://svn.ipadorz.com/svn/iss_framework_iphone</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>userInfo/DrawRect/AnimatedPath-master/AnimatedPath.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5D5134CD-2282-4DE9-986D-547927799EB7</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>5D5134CD-2282-4DE9-986D-547927799EB7</key>
+		<string>https://svn.ipadorz.com/svn/iss_framework_iphone</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://svn.ipadorz.com/svn/iss_framework_iphone/userInfo/DrawRect/AnimatedPath-master/AnimatedPath.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5D5134CD-2282-4DE9-986D-547927799EB7</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5D5134CD-2282-4DE9-986D-547927799EB7</string>
+			<key>IDESourceControlWCCName</key>
+			<string>wanshaofa</string>
+		</dict>
+	</array>
+</dict>
+</plist>

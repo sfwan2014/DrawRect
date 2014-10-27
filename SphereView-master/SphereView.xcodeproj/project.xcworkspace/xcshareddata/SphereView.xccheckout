@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>00D6A2A0-A1A9-4B0B-A110-621F01688C23</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SphereView</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B2FAF549-B490-44FC-B702-63B01AC378FC</key>
+		<string>https://svn.ipadorz.com/svn/iss_framework_iphone</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>userInfo/DrawRect/SphereView-master/SphereView.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B2FAF549-B490-44FC-B702-63B01AC378FC</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>B2FAF549-B490-44FC-B702-63B01AC378FC</key>
+		<string>https://svn.ipadorz.com/svn/iss_framework_iphone</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://svn.ipadorz.com/svn/iss_framework_iphone/userInfo/SphereView-master/SphereView.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B2FAF549-B490-44FC-B702-63B01AC378FC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B2FAF549-B490-44FC-B702-63B01AC378FC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>wanshaofa</string>
+		</dict>
+	</array>
+</dict>
+</plist>
